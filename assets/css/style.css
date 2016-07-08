@@ -1,0 +1,28 @@
+body{background-color:#fff;}
+div{word-wrap:break-word;}
+select{border:1px solid #bdbdbd;}
+table > thead{font-weight:bold;}
+table{word-wrap:break-word;}
+.error{color:red;font-size:10pt;}
+.navbar{background-color:#2e6fa7;border:0px;}
+.navbar-default .navbar-nav > li > a{color:#fff;font-size:10pt;}
+.navbar-default .navbar-nav > li > a:hover{color:#fff;background-color:#275f8f;}
+.navbar-default .navbar-nav > .active a,
+.navbar-default .navbar-nav > .active a:hover{color:#fff;background-color:#275f8f;}
+.navbar-default .navbar-header > a,
+.navbar-default .navbar-header > a:hover,
+.navbar-default .navbar-header > a:active,
+.navbar-default .navbar-header > a:focus{color:#fff;}
+.pad-t{margin-top:50px;margin-bottom:50px;padding:20px;}
+.form-control, .btn{border-radius:0px;}
+.form-control{padding:20px;}
+.help{font-size:10pt;color:#858586;}
+.header{background:#C7CBEE;}
+.footer{}
+.modal .body{padding:20px;}
+.modal-content{border-radius:0px}
+.dokter-info{list-style:none;padding:10px;}
+.dokter-info > li{margin-bottom:8px;}
+.panel{border-radius:0px;}
+.box-t{border:1px solid #bdbdbd;padding:20px;border-radius:0px;}
+.title-t{font-size:18pt;background-color:#2e6fa7;color:#f8f8f8;margin-left:-20px;padding-left:20px;margin-bottom:20px;}
